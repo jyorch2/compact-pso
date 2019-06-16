@@ -280,7 +280,7 @@ var historyLength = 800;
 let particleHistory = [];
 let elitistHistory = [];
 
-var funcion = "mccormick"
+var funcion = "sphere"
 
 function draw() {
 
